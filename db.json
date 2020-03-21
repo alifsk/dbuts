@@ -1,5 +1,5 @@
 {
-  "Pod": [
+  "pod": [
     {
       "id": "1",
       "nama": "Aegis Boost",
@@ -37,7 +37,7 @@
       "foto": "produk12.jpg"
     }
   ],
-  "Mod": [
+  "mod": [
     {
       "id": "1",
       "nama": "Hexsohm V3",
@@ -75,7 +75,7 @@
       "foto": "produk15.jpg"
     }
   ],
-  "Liquid": [
+  "liquid": [
     {
       "id": "1",
       "nama": "Banana Licious",
