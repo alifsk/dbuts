@@ -85,10 +85,16 @@
       "foto": "produk10.jpg"
     },
     {
-      "id": "6",
+      "id": "15",
       "nama": "JAC Vapour Series B DNA75",
       "harga": "IDR 850.000",
       "foto": "produk15.jpg"
+    },
+    {
+      "id": "16",
+      "nama": "Gorilla Jam - Kiwi Jam",
+      "harga": "IDR 150.000",
+      "foto": "produk9.jpg"
     }
   ],
   "pod": [
