@@ -5,6 +5,60 @@
       "nama": "Aegis Boost",
       "harga": "IDR 370.000",
       "foto": "produk1.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "Hexsohm V3",
+      "harga": "IDR 3.000.000",
+      "foto": "produk4.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "DUA - Blueberry Butter Toast",
+      "harga": "IDR 150.000",
+      "foto": "produk17.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "IJOY Shogun univ",
+      "harga": "IDR 530.000",
+      "foto": "produk5.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "Vapoo Vinci",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "Banana Licious",
+      "harga": "IDR 150.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Xcalibur",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Smok Alien 220W",
+      "harga": "IDR 750.000",
+      "foto": "produk14.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Premium Donut's Blueberry",
+      "harga": "IDR 150.000",
+      "foto": "produk18.jpg"
+    },
+    {
+      "id": "10",
+      "nama": "Lost Vape Origin Q Pod kit",
+      "harga": "IDR 320.000",
+      "foto": "produk12.jpg"
     }
   ],
   "pod": [
