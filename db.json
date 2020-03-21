@@ -1,0 +1,83 @@
+{
+  "Pod": [
+    {
+      "name": "Pod 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Pod 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Pod 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Pod 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Pod 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Pod 6",
+      "price": "35.000"
+    }
+  ],
+  "Mod": [
+    {
+      "name": "Mod 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Mod 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Mod 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Mod 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Mod 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Mod 6",
+      "price": "35.000"
+    }
+  ],
+  "Liquid": [
+    {
+      "name": "Liquid 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Liquid 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Liquid 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Liquid 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Liquid 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Liquid 6",
+      "price": "35.000"
+    }
+  ],
+  "test": {
+    "name": "test"
+  }
+}
