@@ -59,6 +59,36 @@
       "nama": "Lost Vape Origin Q Pod kit",
       "harga": "IDR 320.000",
       "foto": "produk12.jpg"
+    },
+    {
+      "id": "11",
+      "nama": "CUB R57",
+      "harga": "IDR 310.000",
+      "foto": "produk6.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "Vaporesso Target PM80",
+      "harga": "IDR 340.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "13",
+      "nama": "Berry Mochi",
+      "harga": "IDR 180.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "14",
+      "nama": "Smok RPM 40",
+      "harga": "IDR 270.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "JAC Vapour Series B DNA75",
+      "harga": "IDR 850.000",
+      "foto": "produk15.jpg"
     }
   ],
   "pod": [
