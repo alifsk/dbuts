@@ -1,83 +1,119 @@
 {
   "Pod": [
     {
-      "name": "Pod 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Aegis Boost",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
     },
     {
-      "name": "Pod 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "Vapoo Vinci",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
     },
     {
-      "name": "Pod 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "Xcalibur",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
     },
     {
-      "name": "Pod 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "Smok RPM 40",
+      "harga": "IDR 270.000",
+      "foto": "produk10.jpg"
     },
     {
-      "name": "Pod 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "Vaporesso Target PM80",
+      "harga": "IDR 340.000",
+      "foto": "produk11.jpg"
     },
     {
-      "name": "Pod 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "Lost Vape Origin Q Pod kit",
+      "harga": "IDR 320.000",
+      "foto": "produk12.jpg"
     }
   ],
   "Mod": [
     {
-      "name": "Mod 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Hexsohm V3",
+      "harga": "IDR 3.000.000",
+      "foto": "produk4.jpg"
     },
     {
-      "name": "Mod 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "IJOY Shogun univ",
+      "harga": "IDR 530.000",
+      "foto": "produk5.jpg"
     },
     {
-      "name": "Mod 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "CUB R57",
+      "harga": "IDR 310.000",
+      "foto": "produk6.jpg"
     },
     {
-      "name": "Mod 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "GeekVape Aegis X 200W",
+      "harga": "IDR 700.000",
+      "foto": "produk13.jpg"
     },
     {
-      "name": "Mod 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "Smok Alien 220W",
+      "harga": "IDR 750.000",
+      "foto": "produk14.jpg"
     },
     {
-      "name": "Mod 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "JAC Vapour Series B DNA75",
+      "harga": "IDR 850.000",
+      "foto": "produk15.jpg"
     }
   ],
   "Liquid": [
     {
-      "name": "Liquid 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Banana Licious",
+      "harga": "IDR 150.000",
+      "foto": "produk7.jpg"
     },
     {
-      "name": "Liquid 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "Berry Mochi",
+      "harga": "IDR 180.000",
+      "foto": "produk9.jpg"
     },
     {
-      "name": "Liquid 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "Gorilla Jam - Kiwi Jam",
+      "harga": "IDR 150.000",
+      "foto": "produk10.jpg"
     },
     {
-      "name": "Liquid 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "Mighty Grape Bubblegum",
+      "harga": "IDR 160.000",
+      "foto": "produk16.jpg"
     },
     {
-      "name": "Liquid 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "DUA - Blueberry Butter Toast",
+      "harga": "IDR 150.000",
+      "foto": "produk17.jpg"
     },
     {
-      "name": "Liquid 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "Premium Donut's Blueberry",
+      "harga": "IDR 150.000",
+      "foto": "produk18.jpg"
     }
   ],
   "test": {
-    "name": "test"
+    "name": "alifsk"
   }
 }
