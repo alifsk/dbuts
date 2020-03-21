@@ -1,4 +1,12 @@
 {
+  "products": [
+    {
+      "id": "1",
+      "nama": "Aegis Boost",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
+    }
+  ],
   "pod": [
     {
       "id": "1",
